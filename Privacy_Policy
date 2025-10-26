@@ -1,0 +1,222 @@
+# Privacy Policy for Daily Find
+
+**Last Updated: October 26, 2025**
+
+## Introduction
+
+Daily Find ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Daily Find (the "App").
+
+Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+
+## Information We Collect
+
+### Personal Information
+
+When you register for an account, we collect:
+- **Email address** - Used for account creation, authentication, and communication
+- **Username** - Your display name within the app
+- **Password** - Stored securely in encrypted format
+
+### Location Information
+
+We collect location data to:
+- Generate personalized daily challenges relevant to your area
+- Create location-appropriate finds (urban vs. suburban)
+- Provide contextually relevant bonus challenges
+
+**Location Usage:**
+- We only access your location when you use the app
+- Location data is used solely for generating appropriate challenges
+- We do not track or store your movement history
+- You can disable location access in your device settings (this may limit app functionality)
+
+### Photos and Camera
+
+We access your camera and photo library to:
+- Allow you to capture photos of your daily finds
+- Save and share your find completions
+- Upload images to our secure cloud storage
+
+**Photo Usage:**
+- Photos are only taken when you explicitly capture a find
+- You control whether photos are shared publicly or kept private
+- All photos are stored securely on our servers
+- You can delete your photos at any time
+
+### User-Generated Content
+
+We collect and store:
+- Your daily find submissions and photos
+- Comments and reactions on other users' finds
+- Direct messages with other users
+- Your streak history and achievements
+- Profile information you choose to share
+
+### Usage Data
+
+We automatically collect:
+- App usage statistics (features used, time spent)
+- Device information (device type, OS version)
+- Performance data (crashes, errors)
+- In-app purchase history
+
+### Notifications
+
+We send push notifications for:
+- Daily find availability (11 AM daily)
+- Find expiration warnings
+- Streak reminders
+- Social interactions (comments, messages)
+- Bonus challenge notifications
+
+You can disable notifications in your device settings.
+
+## How We Use Your Information
+
+We use the information we collect to:
+
+1. **Provide and maintain the service**
+   - Generate personalized daily challenges
+   - Process and display your find submissions
+   - Manage your account and streak history
+
+2. **Improve user experience**
+   - Analyze app usage to improve features
+   - Fix bugs and technical issues
+   - Develop new features
+
+3. **Social features**
+   - Enable friend connections
+   - Display content on the For You Page
+   - Facilitate messaging between users
+
+4. **Communications**
+   - Send important service updates
+   - Respond to support requests
+   - Send push notifications (if enabled)
+
+5. **Process transactions**
+   - Handle in-app purchases (streak restores)
+   - Maintain purchase records
+
+## Data Storage and Security
+
+- All data is stored securely using Supabase cloud infrastructure
+- Photos are stored in secure cloud storage
+- Passwords are encrypted using industry-standard encryption
+- We use HTTPS/SSL for all data transmission
+- We implement security measures to protect against unauthorized access
+
+**Data Retention:**
+- We retain your data as long as your account is active
+- You can request account deletion at any time
+- Upon deletion, your data is permanently removed within 30 days
+
+## Information Sharing
+
+We **DO NOT** sell, trade, or rent your personal information to third parties.
+
+We may share information in these limited circumstances:
+
+1. **With your consent** - When you choose to share finds publicly
+2. **Service providers** - Third-party services that help us operate (cloud storage, analytics)
+3. **Legal requirements** - If required by law or to protect our rights
+4. **Business transfers** - In case of merger, acquisition, or asset sale
+
+## Your Privacy Rights
+
+You have the right to:
+
+- **Access your data** - Request a copy of your personal information
+- **Delete your data** - Request account and data deletion
+- **Modify your data** - Update your profile and settings
+- **Control sharing** - Choose to keep finds private or public
+- **Opt-out of notifications** - Disable push notifications
+- **Export your data** - Request a copy of your finds and photos
+
+To exercise these rights, contact us at: support@dailyfind.app
+
+## Children's Privacy
+
+Daily Find is rated 4+ and suitable for all ages. We do not knowingly collect personal information from children under 13 without parental consent. If you believe a child under 13 has provided us with personal information, please contact us immediately.
+
+## Third-Party Services
+
+Daily Find uses the following third-party services:
+
+- **Supabase** - Backend infrastructure and database
+- **Expo** - Mobile app framework
+- **Apple App Store** - In-app purchases and distribution
+
+These services have their own privacy policies. We are not responsible for their practices.
+
+## In-App Purchases
+
+Daily Find offers in-app purchases:
+- **Streak Restore** ($0.99) - Restore a broken streak within 24 hours
+
+Purchases are processed through Apple's App Store. We do not store your payment information. Refer to Apple's privacy policy for payment data handling.
+
+## Analytics and Cookies
+
+We use analytics to improve the app:
+- Usage patterns and feature adoption
+- Crash reports and error logs
+- Performance metrics
+
+We do not use cookies in the mobile app.
+
+## International Users
+
+Daily Find is operated from the United States. By using the app, you consent to the transfer of information to the United States and other countries where our service providers operate.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of changes by:
+- Posting the new policy in the app
+- Updating the "Last Updated" date
+- Sending a notification (for significant changes)
+
+Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Data Protection (GDPR Compliance)
+
+If you are in the European Economic Area (EEA), you have additional rights under GDPR:
+- Right to access, rectification, erasure, and data portability
+- Right to restrict or object to processing
+- Right to withdraw consent
+- Right to lodge a complaint with a supervisory authority
+
+## California Privacy Rights (CCPA)
+
+California residents have the right to:
+- Know what personal information is collected
+- Know if personal information is sold or disclosed
+- Opt-out of the sale of personal information (we do not sell data)
+- Request deletion of personal information
+- Non-discrimination for exercising privacy rights
+
+## Contact Us
+
+If you have questions about this Privacy Policy or our practices, contact us:
+
+**Email:** support@dailyfind.app
+
+**App:** Daily Find support page (in-app settings)
+
+**Mail:** [Your Company Address - Optional]
+
+## Appeal Process
+
+If you believe your daily find was unfairly rejected or marked impossible:
+- Use the in-app appeal system
+- Appeals are reviewed by humans within 24 hours
+- We do not share your appeal information with third parties
+
+## Your Consent
+
+By using Daily Find, you consent to this Privacy Policy and our collection and use of information as described.
+
+---
+
+**Thank you for trusting Daily Find with your data. We are committed to protecting your privacy while providing an amazing daily adventure experience!**
